@@ -1,0 +1,14 @@
+# env — không bao giờ push lên git
+.env
+.env.local
+.env.*.local
+
+# deps
+node_modules/
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
